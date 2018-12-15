@@ -97,6 +97,6 @@ I will continue to improve this game and update the improved game version and ga
 After completing the final version of the game, I will export the game to PC version and Mac version and update the downloaded link on this project website.
 
 # Download (demo version)
-PC
+[PC](https://github.com/zizhongtank/NinjaPoker/tree/master/Windos%20Verson)
 
-Mac
+[Mac](https://github.com/zizhongtank/NinjaPoker/tree/master/Mac%20Version.app/Contents)
